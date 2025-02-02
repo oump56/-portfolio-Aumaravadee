@@ -50,14 +50,14 @@ Quality Assurance Engineer with a strong background in Computer Science and hand
 - Mobile Application Development with Flutter Training (2024)
 - Java Web Application Training (2024)
 - Manao Mashup: Mobile App Testing Master Class (2024)
-- Thai x nomad hackathon Participant (2025)
+- Thai x nomad hackathon  (2025)
 
 ## 🌐 Languages
-- Thai (Native)
-- English (Professional)
+- Thai
+- English
 
 ## 📫 Contact
 - 📧 Email: Aumaravadeelungkor@gmail.com
 - 📱 Phone: 061-902-8894
 
-## 📊 GitHub Stats
+
